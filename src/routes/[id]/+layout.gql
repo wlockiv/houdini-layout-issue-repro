@@ -1,0 +1,7 @@
+query FilmLayoutQuery($id: ID!) {
+  film(id: $id) {
+    id
+    title
+    openingCrawl
+  }
+}

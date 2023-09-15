@@ -1,0 +1,10 @@
+query RootLayoutQuery {
+  allFilms {
+    films {
+      id
+      title
+      director
+      releaseDate
+    }
+  }
+}
