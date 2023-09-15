@@ -18,6 +18,7 @@ The types DO seem to get generated AFTER the development server has been started
 
 ```sh
 $ git clone ... 
+$ cd ...
 $ pnpm i
 ```
 
